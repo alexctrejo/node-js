@@ -1,0 +1,23 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexctrejo/node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexctrejo/node-js/issues"
+  },
+  "homepage": "https://github.com/alexctrejo/node-js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
